@@ -10,10 +10,7 @@
                 
                 "properties": {
                   "id": 0,
-                  "description":"BAM TICKET
-                          27 Rue du Chemin Vert,
-                                75011 Paris 
-                             Ouvert 24/24 7/7",
+                  "description":"<strong>BAM TICKET</strong> <br>27 Rue du Chemin Vert,<br>75011 Paris<br>Ouvert 24/24 7/7",
                   "marker-color": "red",
                    "marker-size": "large",
                   "title": "Austin 1",
