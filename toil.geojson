@@ -1,34 +1,34 @@
 {
-            'type': 'FeatureCollection',
-            'features': [
+            "type": "FeatureCollection",
+            "features": [
               {
-                'type': 'Feature',
-                'geometry': {
-                  'type': 'Point',
-                  'coordinates': [2.333333, 48.866667]
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [2.333333, 48.866667]
                 },
                 
-                'properties': {
+                "properties": {
                   id: 0,
-                  'description':'truc',
-                  'marker-color': 'red',
-                   'marker-size': 'large',
-                  'title': 'Austin 1',
-                  'icon':  'bus2'
+                  "description":"truc",
+                  "marker-color": "red",
+                   "marker-size": "large",
+                  "title": "Austin 1",
+                  "icon":  "bus2"
         
                 }
               },
               {
-                'type': 'Feature',
-                'geometry': {
-                  'type': 'Point',
-                  'coordinates': [2.4066193, 48.8789419]
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [2.4066193, 48.8789419]
                 },
-                'properties': {
+                "properties": {
                   id: 1,
-                  'description': 'something',
-                  'title': 'Austin 2',
-                  'icon':  'bus2'
+                  "description": "something",
+                  "title": "Austin 2",
+                  "icon':  "bus2"
                 }
               }
             ]
