@@ -14,7 +14,7 @@
                   "marker-color": "red",
                    "marker-size": "large",
                   "title": "Austin 1",
-                  "icon":  "bus2"
+                  "icon":  "un"
         
                 }
               },
@@ -28,7 +28,7 @@
                   "id": 1,
                   "description": "something",
                   "title": "Austin 2",
-                  "icon":  "bus2"
+                  "icon":  "deux"
                 }
               }
             ]
