@@ -28,7 +28,33 @@
                   "id": 1,
                   "description": "something",
                   "title": "Austin 2",
-                  "icon":  "billeterie"
+                  "icon":  "deux"
+                }
+,
+              {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [2.4060193, 48.8780419]
+                },
+                "properties": {
+                  "id": 1,
+                  "description": "something",
+                  "title": "Austin 2",
+                  "icon":  "trois"
+                }
+,
+              {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [2.4066100, 48.8709419]
+                },
+                "properties": {
+                  "id": 1,
+                  "description": "something",
+                  "title": "Austin 2",
+                  "icon":  "quatre"
                 }
               }
             ]
