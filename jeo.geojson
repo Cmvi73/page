@@ -11,7 +11,7 @@
                 
                 "properties": {
                   "id": 0,
-                  "description":"<strong>BAM TICKET</strong> <br>27 Rue du Chemin Vert,<br>75011 Paris<br>Ouvert 24/24 7/7",
+                  "description":"<strong>SCENE 5</strong> <br>Champs de Mars<br>75007 Paris"
                   "marker-color": "red",
                    "marker-size": "large",
                   "title": "Austin 1",
@@ -43,7 +43,7 @@
                 
                 "properties": {
                   "id": 0,
-                  "description":"<strong>BAM TICKET</strong> <br>27 Rue du Chemin Vert,<br>75011 Paris<br>Ouvert 24/24 7/7",
+                  "description":"<strong>SCENE 2</strong> <br>Champs de Mars<br>75007 Paris"
                   "marker-color": "red",
                    "marker-size": "large",
                   "title": "Austin 1",
@@ -75,7 +75,7 @@
                 
                 "properties": {
                   "id": 0,
-                  "description":"<strong>BAM TICKET</strong> <br>27 Rue du Chemin Vert,<br>75011 Paris<br>Ouvert 24/24 7/7",
+                  "description":"<strong>SCENE 4</strong> <br>Champs de Mars<br>75007 Paris"
                   "marker-color": "red",
                    "marker-size": "large",
                   "title": "Austin 1",
