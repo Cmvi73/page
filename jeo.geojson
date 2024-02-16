@@ -22,7 +22,72 @@
                 "type": "Feature",
                 "geometry": {
                   "type": "Point",
-                  "coordinates": [2.4066193, 48.8789419]
+                  "coordinates": [2.297901800080524,
+          48.85508605054193]
+                },
+                "properties": {
+                  "id": 1,
+                  "description": "something",
+                  "title": "Austin 2",
+                  "icon":  "quatre"
+                }
+              },
+           {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [2.299263587763562,
+          48.85595608135432]
+                },
+                
+                "properties": {
+                  "id": 0,
+                  "description":"<strong>BAM TICKET</strong> <br>27 Rue du Chemin Vert,<br>75011 Paris<br>Ouvert 24/24 7/7",
+                  "marker-color": "red",
+                   "marker-size": "large",
+                  "title": "Austin 1",
+                  "icon":  "quatre"
+        
+                }
+              },
+              {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [2.300151710166716,
+          48.855514575070515]
+                },
+                "properties": {
+                  "id": 1,
+                  "description": "something",
+                  "title": "Austin 2",
+                  "icon":  "quatre"
+                }
+              },
+           {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [2.2990464911766253,
+          48.85461856505441]
+                },
+                
+                "properties": {
+                  "id": 0,
+                  "description":"<strong>BAM TICKET</strong> <br>27 Rue du Chemin Vert,<br>75011 Paris<br>Ouvert 24/24 7/7",
+                  "marker-color": "red",
+                   "marker-size": "large",
+                  "title": "Austin 1",
+                  "icon":  "quatre"
+        
+                }
+              },
+              {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [2.300980624408595,
+          48.85496917957903]
                 },
                 "properties": {
                   "id": 1,
