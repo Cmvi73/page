@@ -14,7 +14,7 @@
                   "marker-color": "red",
                    "marker-size": "large",
                   "title": "Austin 1",
-                  "icon":  "quatre"
+                  "icon":  "un"
         
                 }
               },
@@ -29,7 +29,7 @@
                   "id": 1,
                   "description": "something",
                   "title": "Austin 2",
-                  "icon":  "quatre"
+                  "icon":  "deux"
                 }
               },
            {
@@ -46,7 +46,7 @@
                   "marker-color": "red",
                    "marker-size": "large",
                   "title": "Austin 1",
-                  "icon":  "quatre"
+                  "icon":  "trois"
         
                 }
               },
@@ -78,7 +78,7 @@
                   "marker-color": "red",
                    "marker-size": "large",
                   "title": "Austin 1",
-                  "icon":  "quatre"
+                  "icon":  "cinq"
         
                 }
               },
