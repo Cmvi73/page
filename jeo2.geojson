@@ -82,6 +82,88 @@
                   "icon":  "quatre"
         
                 }
+              },
+ {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [2.299072044385241,
+          48.85523612138789]
+                },
+                
+                "properties": {
+                  "id": 1,
+                  "description":"<strong>Biere à volonté</strong> <br>Champs de Mars<br>75007 Paris<br>Reservé au adulte",
+                  "marker-color": "red",
+                   "marker-size": "large",
+                  "title": "Fete de la biere",
+                  "icon":  "biere"
+        
+                }
+              },
+              {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [2.2985148472318997,
+          48.85572626803733]
+                },
+                "properties": {
+                  "id": 6,
+                  "description": "<strong>Stand boisson</strong> <br>Champs de Mars<br>75007 Paris",
+                  "title": "stand boisson",
+                  "icon":  "biere"
+                }
+              },
+           {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [ 2.298405830397911,
+          48.85527198593988]
+                },
+                
+                "properties": {
+                  "id": 7,
+                  "description":"<strong>Bar</strong> <br>Champs de Mars<br>75007 Paris",
+                  "marker-color": "red",
+                   "marker-size": "large",
+                  "title": "Bar ",
+                  "icon":  "biere"
+        
+                }
+              },
+              {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [2.299629241537474,
+          48.85500897863068]
+                },
+                "properties": {
+                  "id": 8,
+                  "description": "<strong>Debit de boisson</strong> <br>Champs de Mars<br>75007 Paris",
+                  "title": "debit de boisson",
+                  "icon":  "biere"
+                }
+              },
+           {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [ 2.300047139401869,
+          48.85552702201099]
+                },
+                
+                "properties": {
+                  "id": 9,
+                  "description":"<strong>Bar a vin</strong> <br>Champs de Mars<br>75007 Paris<br> Plus de 18 ans!!",
+                  "marker-color": "red",
+                   "marker-size": "large",
+                  "title": "Bar a vin",
+                  "icon":  "biere"
+        
+                }
               }
             ]
           }
