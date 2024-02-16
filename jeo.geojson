@@ -15,7 +15,7 @@
                   "marker-color": "red",
                    "marker-size": "large",
                   "title": "Austin 1",
-                  "icon":  "un"
+                  "icon":  "cinq"
         
                 }
               },
@@ -30,7 +30,7 @@
                   "id": 1,
                   "description": "something",
                   "title": "Austin 2",
-                  "icon":  "deux"
+                  "icon":  "un"
                 }
               },
            {
@@ -47,7 +47,7 @@
                   "marker-color": "red",
                    "marker-size": "large",
                   "title": "Austin 1",
-                  "icon":  "trois"
+                  "icon":  "deux"
         
                 }
               },
@@ -62,7 +62,7 @@
                   "id": 1,
                   "description": "something",
                   "title": "Austin 2",
-                  "icon":  "quatre"
+                  "icon":  "trois"
                 }
               },
            {
@@ -79,7 +79,7 @@
                   "marker-color": "red",
                    "marker-size": "large",
                   "title": "Austin 1",
-                  "icon":  "cinq"
+                  "icon":  "quatre"
         
                 }
               }
