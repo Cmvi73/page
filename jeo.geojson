@@ -11,10 +11,10 @@
                 
                 "properties": {
                   "id": 0,
-                  "description":"<strong>SCENE 5</strong> <br>Champs de Mars<br>75007 Paris"
+                  "description":"<strong>SCENE 5</strong> <br>Champs de Mars<br>75007 Paris",
                   "marker-color": "red",
                    "marker-size": "large",
-                  "title": "Austin 1",
+                  "title": "SCENE 5",
                   "icon":  "cinq"
         
                 }
@@ -28,8 +28,8 @@
                 },
                 "properties": {
                   "id": 1,
-                  "description": "something",
-                  "title": "Austin 2",
+                  "description": "<strong>SCENE 1</strong> <br>Champs de Mars<br>75007 Paris",
+                  "title": "SCENE 1",
                   "icon":  "un"
                 }
               },
@@ -43,10 +43,10 @@
                 
                 "properties": {
                   "id": 0,
-                  "description":"<strong>SCENE 2</strong> <br>Champs de Mars<br>75007 Paris"
+                  "description":"<strong>SCENE 2</strong> <br>Champs de Mars<br>75007 Paris",
                   "marker-color": "red",
                    "marker-size": "large",
-                  "title": "Austin 1",
+                  "title": "SCENE 2",
                   "icon":  "deux"
         
                 }
@@ -60,8 +60,8 @@
                 },
                 "properties": {
                   "id": 1,
-                  "description": "something",
-                  "title": "Austin 2",
+                  "description": "<strong>SCENE 3</strong> <br>Champs de Mars<br>75007 Paris",
+                  "title": "SCENE 3",
                   "icon":  "trois"
                 }
               },
@@ -75,10 +75,10 @@
                 
                 "properties": {
                   "id": 0,
-                  "description":"<strong>SCENE 4</strong> <br>Champs de Mars<br>75007 Paris"
+                  "description":"<strong>SCENE 4</strong> <br>Champs de Mars<br>75007 Paris",
                   "marker-color": "red",
                    "marker-size": "large",
-                  "title": "Austin 1",
+                  "title": "SCENE 4",
                   "icon":  "quatre"
         
                 }
