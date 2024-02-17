@@ -93,10 +93,10 @@
                 
                 "properties": {
                   "id": 1,
-                  "description":"<strong>Biere à volonté</strong> <br>Champs de Mars<br>75007 Paris<br>Reservé au adulte",
+                  "description":"<strong>Bus ligne 2</strong><p><br><a href='http://ratp.fr/' target='_blank'>site de la ratp</a>Dessert Paris GARE DU NORD 11h 21h</p>",
                   "marker-color": "red",
                    "marker-size": "large",
-                  "title": "Fete de la biere",
+                  "title": "ligne 2",
                   "icon":  "bus2"
         
                 }
@@ -110,8 +110,8 @@
                 },
                 "properties": {
                   "id": 6,
-                  "description": "<strong>Stand boisson</strong> <br>Champs de Mars<br>75007 Paris",
-                  "title": "stand boisson",
+                  "description": "<strong>Bus ligne 7</strong><p><br><a href='http://ratp.fr/' target='_blank'>site de la ratp</a>Dessert PARIS ORLY 11h 21h</p>",
+                  "title": "ligne 7",
                   "icon":  "bus2"
                 }
               },
@@ -125,10 +125,10 @@
                 
                 "properties": {
                   "id": 7,
-                  "description":"<strong>Bar</strong> <br>Champs de Mars<br>75007 Paris",
+                  "description":"<strong>Bus ligne 12</strong><p><br><a href='http://ratp.fr/' target='_blank'>site de la ratp</a>Dessert Paris CENTRE 11h 21h</p>",
                   "marker-color": "red",
                    "marker-size": "large",
-                  "title": "Bar ",
+                  "title": "ligne 12 ",
                   "icon":  "bus2"
         
                 }
@@ -142,8 +142,8 @@
                 },
                 "properties": {
                   "id": 8,
-                  "description": "<strong>Debit de boisson</strong> <br>Champs de Mars<br>75007 Paris",
-                  "title": "debit de boisson",
+                  "description": "<strong>Bus ligne 3</strong><p><br><a href='http://ratp.fr/' target='_blank'>site de la ratp</a>Dessert Paris Orly 11h 21h</p>",
+                  "title": "ligne 3",
                   "icon":  "bus2"
                 }
               },
@@ -160,7 +160,7 @@
                   "description":"<strong>Bus ligne 2</strong><p><br><a href='http://ratp.fr/' target='_blank'>site de la ratp</a>Dessert Paris gare de Lyon 11h 21h</p>",
                   "marker-color": "red",
                    "marker-size": "large",
-                  "title": "Bar a vin",
+                  "title": "ligne 2",
                   "icon":  "bus2"
         
                 }
