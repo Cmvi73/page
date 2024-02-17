@@ -1,0 +1,35 @@
+{
+            "type": "FeatureCollection",
+            "features": [
+              {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [2.3730884, 48.8585802]
+                },
+                
+                "properties": {
+                  "id": 0,
+                  "description":"<strong>BAM TICKET</strong> <br>27 Rue du Chemin Vert,<br>75011 Paris<br>Ouvert 24/24 7/7",
+                  "marker-color": "red",
+                   "marker-size": "large",
+                  "title": "Austin 1",
+                  "icon":  "quatre"
+        
+                }
+              },
+              {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [2.4066193, 48.8789419]
+                },
+                "properties": {
+                  "id": 1,
+                  "description": "something",
+                  "title": "Austin 2",
+                  "icon":  "quatre"
+                }
+              }
+            ]
+          }
