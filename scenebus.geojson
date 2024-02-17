@@ -97,7 +97,7 @@
                   "marker-color": "red",
                    "marker-size": "large",
                   "title": "Fete de la biere",
-                  "icon":  "biere"
+                  "icon":  "bus2"
         
                 }
               },
@@ -105,14 +105,14 @@
                 "type": "Feature",
                 "geometry": {
                   "type": "Point",
-                  "coordinates": [2.2985148472318997,
-          48.85572626803733]
+                  "coordinates": [2.296973987250709,
+          48.85515214902665]
                 },
                 "properties": {
                   "id": 6,
                   "description": "<strong>Stand boisson</strong> <br>Champs de Mars<br>75007 Paris",
                   "title": "stand boisson",
-                  "icon":  "biere"
+                  "icon":  "bus2"
                 }
               },
            {
@@ -129,7 +129,7 @@
                   "marker-color": "red",
                    "marker-size": "large",
                   "title": "Bar ",
-                  "icon":  "biere"
+                  "icon":  "bus2"
         
                 }
               },
@@ -137,22 +137,22 @@
                 "type": "Feature",
                 "geometry": {
                   "type": "Point",
-                  "coordinates": [2.299629241537474,
-          48.85500897863068]
+                  "coordinates": [2.3011759980189765,
+          48.85531503476338]
                 },
                 "properties": {
                   "id": 8,
                   "description": "<strong>Debit de boisson</strong> <br>Champs de Mars<br>75007 Paris",
                   "title": "debit de boisson",
-                  "icon":  "biere"
+                  "icon":  "bus2"
                 }
               },
            {
                 "type": "Feature",
                 "geometry": {
                   "type": "Point",
-                  "coordinates": [ 2.2984542823409413,
-          48.85478183484318]
+                  "coordinates": [ 2.299629241537474,
+          48.85500897863068]
                 },
                 
                 "properties": {
@@ -161,7 +161,7 @@
                   "marker-color": "red",
                    "marker-size": "large",
                   "title": "Bar a vin",
-                  "icon":  "biere"
+                  "icon":  "bus2"
         
                 }
               }
