@@ -157,7 +157,8 @@
                 
                 "properties": {
                   "id": 9,
-                  "description":"<strong>Bar a vin</strong> <br>Champs de Mars<br>75007 Paris<br> Plus de 18 ans!!",
+                  "description":"<strong>BUS LIGNE 2</strong> <br>Champs de Mars<br>75007 Paris<br>
+10H - 18H direction gare de lyon<br><a href='https://ratp.fr>site de la ratp</a>'",
                   "marker-color": "red",
                    "marker-size": "large",
                   "title": "Bar a vin",
