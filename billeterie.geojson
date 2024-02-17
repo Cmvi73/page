@@ -11,9 +11,7 @@
                 
                 "properties": {
                   "id": 1,
-                  "description":"<strong>BAM TICKET</strong> <br>27 Rue du Chemin Vert<br>
-                   <a href='https://www.bam-ticket.com/ 'target='_blank'>Visiter bam-ticket.com</a>
-                     <br>Ouvert 24h/24<br>75011 Paris",
+                  "description":"",
                   "marker-color": "red",
                    "marker-size": "large",
                   "title": "bam ticket",
