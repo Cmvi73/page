@@ -93,7 +93,7 @@
                 
                 "properties": {
                   "id": 1,
-                  "description":"<strong>Bus ligne 2</strong><p><br><a href='http://ratp.fr/' target='_blank'>site de la ratp</a>Dessert Paris GARE DU NORD 11h 21h</p>",
+                  "description":"<strong>Bus ligne 2</strong><p><br><a href='http://ratp.fr/' target='_blank'>site de la ratp</a><br>Dessert Paris GARE DU NORD 11h 21h</p>",
                   "marker-color": "red",
                    "marker-size": "large",
                   "title": "ligne 2",
@@ -110,7 +110,7 @@
                 },
                 "properties": {
                   "id": 6,
-                  "description": "<strong>Bus ligne 7</strong><p><br><a href='http://ratp.fr/' target='_blank'>site de la ratp</a>Dessert PARIS ORLY 11h 21h</p>",
+                  "description": "<strong>Bus ligne 7</strong><p><br><a href='http://ratp.fr/' target='_blank'>site de la ratp</a><br>Dessert PARIS ORLY 11h 21h</p>",
                   "title": "ligne 7",
                   "icon":  "bus2"
                 }
@@ -125,7 +125,7 @@
                 
                 "properties": {
                   "id": 7,
-                  "description":"<strong>Bus ligne 12</strong><p><br><a href='http://ratp.fr/' target='_blank'>site de la ratp</a>Dessert Paris CENTRE 11h 21h</p>",
+                  "description":"<strong>Bus ligne 12</strong><p><br><a href='http://ratp.fr/' target='_blank'>site de la ratp</a><br>Dessert Paris CENTRE 11h 21h</p>",
                   "marker-color": "red",
                    "marker-size": "large",
                   "title": "ligne 12 ",
@@ -142,7 +142,7 @@
                 },
                 "properties": {
                   "id": 8,
-                  "description": "<strong>Bus ligne 3</strong><p><br><a href='http://ratp.fr/' target='_blank'>site de la ratp</a>Dessert Paris Orly 11h 21h</p>",
+                  "description": "<strong>Bus ligne 3</strong><p><br><a href='http://ratp.fr/' target='_blank'>site de la ratp</a><br>Dessert Paris Orly 11h 21h</p>",
                   "title": "ligne 3",
                   "icon":  "bus2"
                 }
@@ -157,7 +157,7 @@
                 
                 "properties": {
                   "id": 9,
-                  "description":"<strong>Bus ligne 2</strong><p><br><a href='http://ratp.fr/' target='_blank'>site de la ratp</a>Dessert Paris gare de Lyon 11h 21h</p>",
+                  "description":"<strong>Bus ligne 2</strong><p><br><a href='http://ratp.fr/' target='_blank'>site de la ratp</a><br>Dessert Paris gare de Lyon 11h 21h</p>",
                   "marker-color": "red",
                    "marker-size": "large",
                   "title": "ligne 2",
