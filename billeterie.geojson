@@ -5,20 +5,19 @@
                 "type": "Feature",
                 "geometry": {
                   "type": "Point",
-                  "coordinates": [48.85541069067287,
-                                 2.2994412122445453]
+                  "coordinates": [ 2.2986215117024926,
+          48.85639713028647]
                 },
                 
                 "properties": {
-                  "id": 1,
-                  "description":"<strong>BAM TICKET</strong> <br>27 Rue du Chemin Vert<br>Ouvert 24h/24<br>75011 Paris",
+                  "id": 9,
+                  "description":"<strong>Bus ligne 2</strong><p><br><a href='http://ratp.fr/' target='_blank'>site de la ratp</a><br>Dessert Paris gare de Lyon 11h 21h</p>",
                   "marker-color": "red",
                    "marker-size": "large",
-                  "title": "bam ticket",
-                  "icon":  "pointer"
+                  "title": "ligne 2",
+                  "icon":  "bus2"
         
                 }
               }
             ]
           }
-
