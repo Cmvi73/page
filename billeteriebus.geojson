@@ -18,6 +18,139 @@
                   "icon":  "billete"
         
                 }
+              },
+           {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [2.299263587763562,
+          48.85595608135432]
+                },
+                
+                "properties": {
+                  "id": 3,
+                  "description":"<strong>SCENE 2</strong> <br>Champs de Mars<br>75007 Paris",
+                  "marker-color": "red",
+                   "marker-size": "large",
+                  "title": "SCENE 2",
+                  "icon":  "deux"
+        
+                }
+              },
+              {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [2.300151710166716,
+          48.855514575070515]
+                },
+                "properties": {
+                  "id": 4,
+                  "description": "<strong>SCENE 3</strong> <br>Champs de Mars<br>75007 Paris",
+                  "title": "SCENE 3",
+                  "icon":  "trois"
+                }
+              },
+           {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [2.2990464911766253,
+          48.85461856505441]
+                },
+                
+                "properties": {
+                  "id": 5,
+                  "description":"<strong>SCENE 4</strong> <br>Champs de Mars<br>75007 Paris",
+                  "marker-color": "red",
+                   "marker-size": "large",
+                  "title": "SCENE 4",
+                  "icon":  "quatre"
+        
+                }
+              },
+ {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [ 2.2999653209071766,
+          48.85452160242494]
+                },
+                
+                "properties": {
+                  "id": 1,
+                  "description":"<strong>Bus ligne 2</strong><p><br><a href='http://ratp.fr/' target='_blank'>site de la ratp</a><br>Dessert Paris GARE DU NORD 11h 21h</p>",
+                  "marker-color": "red",
+                   "marker-size": "large",
+                  "title": "ligne 2",
+                  "icon":  "bus2"
+        
+                }
+              },
+              {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [2.296973987250709,
+          48.85515214902665]
+                },
+                "properties": {
+                  "id": 6,
+                  "description": "<strong>Bus ligne 7</strong><p><br><a href='http://ratp.fr/' target='_blank'>site de la ratp</a><br>Dessert PARIS ORLY 11h 21h</p>",
+                  "title": "ligne 7",
+                  "icon":  "bus2"
+                }
+              },
+           {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [2.2984542823409413,
+          48.85478183484318]
+                },
+                
+                "properties": {
+                  "id": 7,
+                  "description":"<strong>Bus ligne 12</strong><p><br><a href='http://ratp.fr/' target='_blank'>site de la ratp</a><br>Dessert Paris CENTRE 11h 21h</p>",
+                  "marker-color": "red",
+                   "marker-size": "large",
+                  "title": "ligne 12 ",
+                  "icon":  "bus2"
+        
+                }
+              },
+              {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [2.3011759980189765,
+          48.85531503476338]
+                },
+                "properties": {
+                  "id": 8,
+                  "description": "<strong>Bus ligne 3</strong><p><br><a href='http://ratp.fr/' target='_blank'>site de la ratp</a><br>Dessert Paris Orly 11h 21h</p>",
+                  "title": "ligne 3",
+                  "icon":  "bus2"
+                }
+              },
+           {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [ 2.2986215117024926,
+          48.85639713028647]
+                },
+                
+                "properties": {
+                  "id": 9,
+                  "description":"<strong>Bus ligne 2</strong><p><br><a href='http://ratp.fr/' target='_blank'>site de la ratp</a><br>Dessert Paris gare de Lyon 11h 21h</p>",
+                  "marker-color": "red",
+                   "marker-size": "large",
+                  "title": "ligne 2",
+                  "icon":  "bus2"
+        
+                }
               }
             ]
           }
+
