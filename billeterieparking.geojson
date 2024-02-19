@@ -24,8 +24,8 @@
                 "type": "Feature",
                 "geometry": {
                   "type": "Point",
-                  "coordinates": [2.3734990144720314,
-          48.858622788166514]
+                  "coordinates": [2.3721120529981476,
+          48.85907560562845]
                 },
                 
                 "properties": {
@@ -34,7 +34,7 @@
                   "marker-color": "red",
                    "marker-size": "large",
                   "title": "Patisserie",
-                  "icon":  "restaurant2"
+                  "icon":  "parking2"
         
                 }
               },
@@ -42,22 +42,22 @@
                 "type": "Feature",
                 "geometry": {
                   "type": "Point",
-                  "coordinates": [2.373188464245402,
-          48.85852263268404]
+                  "coordinates": [2.3740121233012417,
+          48.85881916669362]
                 },
                 "properties": {
                   "id": 6,
                   "description": "<strong>CHEZ NONO</strong> <br>Restaurant Breton<br>75007 Paris<br>ouvert tous les soirs a partir de 17H",
                   "title": "stand boisson",
-                  "icon":  "restaurant2"
+                  "icon":  "parking2"
                 }
               },
            {
                 "type": "Feature",
                 "geometry": {
                   "type": "Point",
-                  "coordinates": [ 2.37286269096856,
-          48.85875699619885]
+                  "coordinates": [ 2.3735574308780087,
+          48.859193114264286]
                 },
                 
                 "properties": {
@@ -66,7 +66,7 @@
                   "marker-color": "red",
                    "marker-size": "large",
                   "title": "PLANCHE",
-                  "icon":  "restaurant2"
+                  "icon":  "parking2"
         
                 }
               },
@@ -74,22 +74,22 @@
                 "type": "Feature",
                 "geometry": {
                   "type": "Point",
-                  "coordinates": [2.37276221883684,
-          48.858558688680745]
+                  "coordinates": [2.373322765260866,
+          48.8585841337368]
                 },
                 "properties": {
                   "id": 8,
                   "description": "<strong>BIG KING</strong> <br>Hamburger de qualité avec ingredients origines France<br>8H-17H",
                   "title": "BIG KING",
-                  "icon":  "restaurant2"
+                  "icon":  "parking2"
                 }
               },
            {
                 "type": "Feature",
                 "geometry": {
                   "type": "Point",
-                  "coordinates": [ 2.372885525543893,
-          48.85842047388559]
+                  "coordinates": [  2.372665116585324,
+          48.858381138467024]
                 },
                 
                 "properties": {
@@ -98,7 +98,7 @@
                   "marker-color": "red",
                    "marker-size": "large",
                   "title": "Fast food",
-                  "icon":  "restaurant2"
+                  "icon":  "parking2"
         
                 }
               }
