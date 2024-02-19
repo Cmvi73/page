@@ -11,7 +11,7 @@
                 
                 "properties": {
                   "id": 9,
-                  "description":"<strong>BAM TICKET</strong><p><br><a href='https://www.bam-ticket.com/' target='_blank'>site de la billeterie</a><br>27 Rue du Chemin Vert, 75011 Paris<br> Ouvert 24h/24</p>",
+                  "description":"<strong>Parking zone bleu</strong><br><br> Rue du Chemin Vert, 75011 Paris<br> Ouvert 24h/24",
                   "marker-color": "red",
                    "marker-size": "large",
                   "title": "ligne 2",
@@ -30,7 +30,7 @@
                 
                 "properties": {
                   "id": 1,
-                  "description":"<strong>Patisserie AU CHAMPS</strong> <br>Gateau, viennoiserie, dessert fais sur place<br>75007 Paris<br>8H-22H 7/7",
+                  "description":"<strong>Parking zone bleu</strong><br><br> Rue du Chemin Vert, 75011 Paris<br> Ouvert 24h/24",
                   "marker-color": "red",
                    "marker-size": "large",
                   "title": "Patisserie",
@@ -47,7 +47,7 @@
                 },
                 "properties": {
                   "id": 6,
-                  "description": "<strong>CHEZ NONO</strong> <br>Restaurant Breton<br>75007 Paris<br>ouvert tous les soirs a partir de 17H",
+                  "description": "<strong>Parking zone bleu</strong><br><br> Rue du Chemin Vert, 75011 Paris<br> Ouvert 24h/24",
                   "title": "stand boisson",
                   "icon":  "parking2"
                 }
@@ -62,7 +62,7 @@
                 
                 "properties": {
                   "id": 7,
-                  "description":"<strong>PLANCHE A PAIN</strong> <br>Boulangerie du Champs de Mars<br>Ouvert 24/24h 7/7 jours",
+                  "description":"<strong>Parking zone bleu</strong><br><br> Rue du Chemin Vert, 75011 Paris<br> Ouvert 24h/24",
                   "marker-color": "red",
                    "marker-size": "large",
                   "title": "PLANCHE",
@@ -79,7 +79,7 @@
                 },
                 "properties": {
                   "id": 8,
-                  "description": "<strong>BIG KING</strong> <br>Hamburger de qualité avec ingredients origines France<br>8H-17H",
+                  "description": "<strong>Parking zone bleu</strong><br><br> Rue du Chemin Vert, 75011 Paris<br> Ouvert 24h/24",
                   "title": "BIG KING",
                   "icon":  "parking2"
                 }
@@ -94,7 +94,7 @@
                 
                 "properties": {
                   "id": 9,
-                  "description":"<strong>Sandwicherie</strong> <br>Vente de sandwich et patisserie<br> ouvert jusqu'à 23h30",
+                  "description":"<strong>Parking zone bleu</strong><br><br> Rue du Chemin Vert, 75011 Paris<br> Ouvert 24h/24",
                   "marker-color": "red",
                    "marker-size": "large",
                   "title": "Fast food",
