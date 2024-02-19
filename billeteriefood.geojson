@@ -20,76 +20,12 @@
                 }
               }
 ,
-             {
-                "type": "Feature",
-                "geometry": {
-                  "type": "Point",
-                  "coordinates": [2.297901800080524,
-          48.85508605054193]
-                },
-                "properties": {
-                  "id": 2,
-                  "description": "<strong>SCENE 1</strong> <br>Champs de Mars<br>75007 Paris",
-                  "title": "SCENE 1",
-                  "icon":  "un"
-                }
-              },
-           {
-                "type": "Feature",
-                "geometry": {
-                  "type": "Point",
-                  "coordinates": [2.299263587763562,
-          48.85595608135432]
-                },
-                
-                "properties": {
-                  "id": 3,
-                  "description":"<strong>SCENE 2</strong> <br>Champs de Mars<br>75007 Paris",
-                  "marker-color": "red",
-                   "marker-size": "large",
-                  "title": "SCENE 2",
-                  "icon":  "deux"
-        
-                }
-              },
-              {
+ {
                 "type": "Feature",
                 "geometry": {
                   "type": "Point",
                   "coordinates": [2.2993736502070874,
           48.855170155972615]
-                },
-                "properties": {
-                  "id": 4,
-                  "description": "<strong>SCENE 3</strong> <br>Champs de Mars<br>75007 Paris",
-                  "title": "SCENE 3",
-                  "icon":  "trois"
-                }
-              },
-           {
-                "type": "Feature",
-                "geometry": {
-                  "type": "Point",
-                  "coordinates": [2.373082999998502,
-          48.85864817562012]
-                },
-                
-                "properties": {
-                  "id": 5,
-                  "description":"<strong>SCENE 4</strong> <br>Champs de Mars<br>75007 Paris",
-                  "marker-color": "red",
-                   "marker-size": "large",
-                  "title": "SCENE 4",
-                  "icon":  "quatre"
-        
-                }
-              },
- {
-                "type": "Feature",
-                "geometry": {
-                  "type": "Point",
-                  "coordinates": [2.3734990144720314,
-          48.858622788166514]
                 },
                 
                 "properties": {
@@ -106,8 +42,8 @@
                 "type": "Feature",
                 "geometry": {
                   "type": "Point",
-                  "coordinates": [ 2.373188464245402,
-          48.85852263268404]
+                  "coordinates": [2.2980339509309715,
+          48.854998439813755]
                 },
                 "properties": {
                   "id": 6,
@@ -120,8 +56,8 @@
                 "type": "Feature",
                 "geometry": {
                   "type": "Point",
-                  "coordinates": [2.37286269096856,
-          48.85875699619885]
+                  "coordinates": [2.2998782122720627,
+          48.85484961866632]
                 },
                 
                 "properties": {
@@ -138,8 +74,8 @@
                 "type": "Feature",
                 "geometry": {
                   "type": "Point",
-                  "coordinates": [2.37276221883684,
-          48.858558688680745]
+                  "coordinates": [ 2.2991387678661965,
+          48.855284633084466]
                 },
                 "properties": {
                   "id": 8,
@@ -152,8 +88,8 @@
                 "type": "Feature",
                 "geometry": {
                   "type": "Point",
-                  "coordinates": [ 2.372885525543893,
-          48.85842047388559]
+                  "coordinates": [ 2.298468918228167,
+          48.855719643723035]
                 },
                 
                 "properties": {
@@ -168,3 +104,4 @@
               }
             ]
           }
+
