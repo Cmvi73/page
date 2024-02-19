@@ -22,13 +22,82 @@
                 "type": "Feature",
                 "geometry": {
                   "type": "Point",
-                  "coordinates": [2.4066193, 48.8789419]
+                  "coordinates": [ 2.2999653209071766,
+          48.85452160242494]
                 },
+                
                 "properties": {
                   "id": 1,
-                  "description": "something",
-                  "title": "Austin 2",
-                  "icon":  "bus2"
+                  "description":"<strong>URINOIR PUBLIQUE</strong><br>toilette HOMME<br>Acces handicape",
+                  "marker-color": "red",
+                   "marker-size": "large",
+                  "title": "WC1",
+                  "icon":  "toilet2"
+        
+                }
+              },
+              {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [2.296973987250709,
+          48.85515214902665]
+                },
+                "properties": {
+                  "id": 6,
+                  "description": "<strong>TOILETTES</strong><br>toilette HOMME-FEMME<br>Acces handicape",
+                  "title": "WC2",
+                  "icon":  "toilet2"
+                }
+              },
+           {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [2.2984542823409413,
+          48.85478183484318]
+                },
+                
+                "properties": {
+                  "id": 7,
+                  "description":"<strong>TOILETTES</strong><br>toilette HOMME-FEMME<br>Acces handicape<br>eau potable",
+                  "marker-color": "red",
+                   "marker-size": "large",
+                  "title": "WC3",
+                  "icon":  "toilet2"
+        
+                }
+              },
+              {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [2.3011759980189765,
+          48.85531503476338]
+                },
+                "properties": {
+                  "id": 8,
+                  "description": "<strong>TOILETTES</strong><br>toilette HOMME-FEMME<br>Acces handicape",
+                  "title": "WC4",
+                  "icon":  "toilet2"
+                }
+              },
+           {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [ 2.2986215117024926,
+          48.85639713028647]
+                },
+                
+                "properties": {
+                  "id": 9,
+                  "description":"<strong>TOILETTES</strong><br>toilette HOMME-FEMME<br>Acces handicape",
+                  "marker-color": "red",
+                   "marker-size": "large",
+                  "title": "WC5",
+                  "icon":  "toilet2"
+        
                 }
               }
             ]
