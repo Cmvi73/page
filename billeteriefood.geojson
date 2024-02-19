@@ -20,21 +20,85 @@
                 }
               }
 ,
+             {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [2.297901800080524,
+          48.85508605054193]
+                },
+                "properties": {
+                  "id": 2,
+                  "description": "<strong>SCENE 1</strong> <br>Champs de Mars<br>75007 Paris",
+                  "title": "SCENE 1",
+                  "icon":  "un"
+                }
+              },
+           {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [2.299263587763562,
+          48.85595608135432]
+                },
+                
+                "properties": {
+                  "id": 3,
+                  "description":"<strong>SCENE 2</strong> <br>Champs de Mars<br>75007 Paris",
+                  "marker-color": "red",
+                   "marker-size": "large",
+                  "title": "SCENE 2",
+                  "icon":  "deux"
+        
+                }
+              },
               {
                 "type": "Feature",
                 "geometry": {
                   "type": "Point",
-                  "coordinates": [ 2.373450300708612,
-          48.85871292793436]
+                  "coordinates": [2.300151710166716,
+          48.855514575070515]
+                },
+                "properties": {
+                  "id": 4,
+                  "description": "<strong>SCENE 3</strong> <br>Champs de Mars<br>75007 Paris",
+                  "title": "SCENE 3",
+                  "icon":  "trois"
+                }
+              },
+           {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [2.2990464911766253,
+          48.85461856505441]
+                },
+                
+                "properties": {
+                  "id": 5,
+                  "description":"<strong>SCENE 4</strong> <br>Champs de Mars<br>75007 Paris",
+                  "marker-color": "red",
+                   "marker-size": "large",
+                  "title": "SCENE 4",
+                  "icon":  "quatre"
+        
+                }
+              },
+ {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [2.2993736502070874,
+          48.855170155972615]
                 },
                 
                 "properties": {
                   "id": 1,
-                  "description":"<strong>URINOIR PUBLIQUE</strong><br>toilette HOMME<br>Acces handicape",
+                  "description":"<strong>Patisserie AU CHAMPS</strong> <br>Gateau, viennoiserie, dessert fais sur place<br>75007 Paris<br>8H-22H 7/7",
                   "marker-color": "red",
                    "marker-size": "large",
-                  "title": "WC1",
-                  "icon":  "toilet2"
+                  "title": "Patisserie",
+                  "icon":  "restaurant2"
         
                 }
               },
@@ -42,31 +106,31 @@
                 "type": "Feature",
                 "geometry": {
                   "type": "Point",
-                  "coordinates": [2.372766785748155,
-          48.85856069179641]
+                  "coordinates": [2.2980339509309715,
+          48.854998439813755]
                 },
                 "properties": {
                   "id": 6,
-                  "description": "<strong>TOILETTES</strong><br>toilette HOMME-FEMME<br>Acces handicape",
-                  "title": "WC2",
-                  "icon":  "toilet2"
+                  "description": "<strong>CHEZ NONO</strong> <br>Restaurant Breton<br>75007 Paris<br>ouvert tous les soirs a partir de 17H",
+                  "title": "stand boisson",
+                  "icon":  "restaurant2"
                 }
               },
            {
                 "type": "Feature",
                 "geometry": {
                   "type": "Point",
-                  "coordinates": [2.372880958625956,
-          48.85842347856439]
+                  "coordinates": [2.2998782122720627,
+          48.85484961866632]
                 },
                 
                 "properties": {
                   "id": 7,
-                  "description":"<strong>TOILETTES</strong><br>toilette HOMME-FEMME<br>Acces handicape<br>eau potable",
+                  "description":"<strong>PLANCHE A PAIN</strong> <br>Boulangerie du Champs de Mars<br>Ouvert 24/24h 7/7 jours",
                   "marker-color": "red",
                    "marker-size": "large",
-                  "title": "WC3",
-                  "icon":  "toilet2"
+                  "title": "PLANCHE",
+                  "icon":  "restaurant2"
         
                 }
               },
@@ -74,34 +138,33 @@
                 "type": "Feature",
                 "geometry": {
                   "type": "Point",
-                  "coordinates": [2.3735385943995198,
-          48.858639814583654]
+                  "coordinates": [ 2.2991387678661965,
+          48.855284633084466]
                 },
                 "properties": {
                   "id": 8,
-                  "description": "<strong>TOILETTES</strong><br>toilette HOMME-FEMME<br>Acces handicape",
-                  "title": "WC4",
-                  "icon":  "toilet2"
+                  "description": "<strong>BIG KING</strong> <br>Hamburger de qualité avec ingredients origines France<br>8H-17H",
+                  "title": "BIG KING",
+                  "icon":  "restaurant2"
                 }
               },
            {
                 "type": "Feature",
                 "geometry": {
                   "type": "Point",
-                  "coordinates": [ 2.3729266277766214,
-          48.85861677884836]
+                  "coordinates": [ 2.298468918228167,
+          48.855719643723035]
                 },
                 
                 "properties": {
                   "id": 9,
-                  "description":"<strong>TOILETTES</strong><br>toilette HOMME-FEMME<br>Acces handicape",
+                  "description":"<strong>Sandwicherie</strong> <br>Vente de sandwich et patisserie<br> ouvert jusqu'à 23h30",
                   "marker-color": "red",
                    "marker-size": "large",
-                  "title": "WC5",
-                  "icon":  "toilet2"
+                  "title": "Fast food",
+                  "icon":  "restaurant2"
         
                 }
               }
             ]
           }
-
