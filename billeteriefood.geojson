@@ -30,7 +30,7 @@
                 
                 "properties": {
                   "id": 1,
-                  "description":"<strong>Patisserie AU CHAMPS</strong> <br>Gateau, viennoiserie, dessert fais sur place<br>75007 Paris<br>8H-22H 7/7",
+                  "description":"<strong>Patisserie AU VERT</strong> <br>Gateau, viennoiserie, dessert fais sur place<br>75007 Paris<br>8H-22H 7/7",
                   "marker-color": "red",
                    "marker-size": "large",
                   "title": "Patisserie",
@@ -62,7 +62,7 @@
                 
                 "properties": {
                   "id": 7,
-                  "description":"<strong>PLANCHE A PAIN</strong> <br>Boulangerie du Champs de Mars<br>Ouvert 24/24h 7/7 jours",
+                  "description":"<strong>PLANCHE A PAIN</strong> <br>Boulangerie<br>Ouvert 24/24h 7/7 jours",
                   "marker-color": "red",
                    "marker-size": "large",
                   "title": "PLANCHE",
