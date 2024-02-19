@@ -5,19 +5,21 @@
                 "type": "Feature",
                 "geometry": {
                   "type": "Point",
-                  "coordinates": [2.333333, 48.866667]
+                  "coordinates": [ 2.373072271162897,
+          48.858662293027095]
                 },
                 
                 "properties": {
-                  "id": 0,
-                  "description":"truc",
+                  "id": 9,
+                  "description":"<strong>BAM TICKET</strong><p><br><a href='https://www.bam-ticket.com/' target='_blank'>site de la billeterie</a><br>27 Rue du Chemin Vert, 75011 Paris<br> Ouvert 24h/24</p>",
                   "marker-color": "red",
                    "marker-size": "large",
-                  "title": "Austin 1",
-                  "icon":  "bus2"
+                  "title": "ligne 2",
+                  "icon":  "billete"
         
                 }
-              },
+              }
+,
               {
                 "type": "Feature",
                 "geometry": {
