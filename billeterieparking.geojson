@@ -11,7 +11,7 @@
                 
                 "properties": {
                   "id": 9,
-                  "description":"<strong>Parking zone bleu</strong><br><br> Rue du Chemin Vert, 75011 Paris<br> Ouvert 24h/24",
+                  "description":"<strong>BAM TICKET</strong><p><br><a href='https://www.bam-ticket.com/' target='_blank'>site de la billeterie</a><br>27 Rue du Chemin Vert, 75011 Paris<br> Ouvert 24h/24</p>",
                   "marker-color": "red",
                    "marker-size": "large",
                   "title": "ligne 2",
